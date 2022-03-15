@@ -1,0 +1,17 @@
+C:\Users\Sergio\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Sergio\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Sergios Supreme Smash Scoreboard Software - Sibilance Series.csproj.GenerateResource.cache
+C:\Users\Sergio\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Sergios Supreme Smash Scoreboard Software - Sibilance Series.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Sergios Supreme Smash Scoreboard Software - Sibilance Series.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Sergios Supreme Smash Scoreboard Software - Sibilance Edition.exe.config
+C:\Users\Sergio\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Sergios Supreme Smash Scoreboard Software - Sibilance Edition.exe
+C:\Users\Sergio\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Sergios Supreme Smash Scoreboard Software - Sibilance Edition.pdb
+C:\Users\Sergio\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Sergios Supreme Smash Scoreboard Software - Sibilance Edition.exe
+C:\Users\Sergio\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Sergios Supreme Smash Scoreboard Software - Sibilance Edition.pdb
+C:\Users\Sergio\source\repos\Smash Scoreboard\WindowsFormsApp1\obj\Release\Sergios Supreme Smash Scoreboard Software - Sibilance Series.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\source\repos\Smash Scoreboard\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Sergio\source\repos\Smash Scoreboard\WindowsFormsApp1\obj\Release\SmashScoreboard.Properties.Resources.resources
+C:\Users\Sergio\source\repos\Smash Scoreboard\WindowsFormsApp1\obj\Release\Sergios Supreme Smash Scoreboard Software - Sibilance Series.csproj.GenerateResource.cache
+C:\Users\Sergio\source\repos\Smash Scoreboard\WindowsFormsApp1\obj\Release\Sergios Supreme Smash Scoreboard Software - Sibilance Series.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\Smash Scoreboard\WindowsFormsApp1\obj\Release\Sergios Supreme Smash Scoreboard Software - Sibilance Edition.exe
+C:\Users\Sergio\source\repos\Smash Scoreboard\WindowsFormsApp1\obj\Release\Sergios Supreme Smash Scoreboard Software - Sibilance Edition.pdb
+C:\Users\Sergio\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SmashScoreboard.Properties.Resources.resources
